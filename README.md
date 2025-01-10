@@ -1,8 +1,10 @@
 # AI_ML-tutorial
-To be uploaded...\
 
-*This tutorial describes the basics of Machine Learning algorithms with publicly available data.*\
-Welcome to "Introduction to AI/ML"!\
+Please click on the `MchineLearningExample01.ipynb' for the code.
+This tutorial provides examples of various algorithms for supervised learning : Naive bases, logistic  regression, support vector machine, neural network.\
+This tutorial utilized publicly available data.*\
+
+*Welcome to "Introduction to AI/ML"!\
 Instructor: Dr. Somnath Dutta\
 Affiliation: ASIAA, Taipei, Taiwan\
--- 2024 --
+-- 2024 --*
